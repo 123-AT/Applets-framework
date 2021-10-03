@@ -1,0 +1,8 @@
+<view class="box">
+  <view style="float:left;font-size: 25px;text-align: center;margin-bottom: 15px;color:red;">山东</view>
+  <view style="float: left;margin-top: 10px;">（中华人民共和国省级行政区）</view>
+  <view style="margin-top: 50px;clear: both;text-indent:1cm;">山东省（Shandong）是中国华东地区的一个沿海省份，简称鲁，省会济南。位于中国东部沿海北纬34°22.9′-38°24.01′，东经114°47.5′-122°42.3′之间，自北而南与河北、河南、安徽、江苏4省接壤。</view>
+  <view style="margin-top: 5px;clear: both;text-indent:1cm;">山东中部山地突起，西南、西北低洼平坦，东部缓丘起伏，地形以山地丘陵为主，东部是山东半岛，西部及北部属华北平原，中南部为山地丘陵，形成以山地丘陵为骨架，平原盆地交错环列其间的地貌，类型包括山地、丘陵、台地、盆地、平原、湖泊等多种类型；地跨淮河、黄河、海河、小清河和胶东五大水系；属暖温带季风气候。</view>
+  <image src="/images/shandong.jpg" style="clear: both;width: 400rpx;height: 400rpx;vertical-align: middle;"></image>
+  <view style="margin-top: 300rpx;text-align: center;color: rgb(189, 96, 53);">电科19-2刘海涛  “勇敢牛牛，不怕困难”</view>
+</view>

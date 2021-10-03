@@ -1,0 +1,9 @@
+<view class="box">
+    <view class="title">泰山</view>
+        <image src="/images/taishan.jpg " style="width: 100%;height: 400rpx;flex-grow: 2;"></image>
+        <view style="display: flex;flex-direction: column;flex-grow: 1;">
+            <view style="color: red;margin:0px 20px;">世界遗产委员会评价</view>
+            <view style="text-indent: 1cm;">庄严神圣的泰山，两千年来一直是帝王朝拜的对象，其山中的人文杰作与自然景观完美和谐地融合在一起。泰山一直是中国艺术家和学者的精神源泉，是古代中国文明和信仰的象征。</view>
+        </view>
+        <view style="margin-top: 300rpx;text-align: center;color: rgb(189, 96, 53);">电科19-2刘海涛  “勇敢牛牛，不怕困难”</view>
+</view>

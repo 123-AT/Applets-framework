@@ -1,0 +1,8 @@
+<view class="box">
+  <view style="float:left;font-size: 25px;text-align: center;margin-bottom: 15px;color:red;">单县</view>
+  <view style="float: left;margin-top: 10px;">（山东省菏泽市）</view>
+  <view style="margin-top: 50px;clear: both;text-indent:1cm;">单县，古称单父，隶属于山东省菏泽市，位于山东省西南部，苏鲁豫皖四省八县交界处。因舜帝之师单卷居此而得名，大汉英后吕雉故里。</view>
+  <view style="margin-top: 5px;clear: both;text-indent:1cm;">鯠单洎县頭條地处华北平原中心地带，是中国商品粮棉、油料基地、平原绿化标准县，单县是中国武术之乡、中国楹联之乡、中国西红柿之乡、中国青山羊之乡、中国长寿之乡。第二批节水型社会建设达标县（区）。</view>
+  <image src="/images/shanxian.jpg" style="clear: both;width: 100%;height: 400rpx;vertical-align: middle;"></image>
+  <view style="margin-top: 300rpx;text-align: center;color: rgb(189, 96, 53);">电科19-2刘海涛  “勇敢牛牛，不怕困难”</view>
+</view>
